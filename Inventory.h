@@ -5,6 +5,14 @@
 using std::string;
 using std::ostream;
 
+/*
+ * This class represents an Invetory of a shop
+ * Inventory holds 
+ *  -the name of an item
+ *  -the price and
+ *  -how much is left in stock
+ */
+
 class Inventory
 {
   private:
